@@ -213,13 +213,16 @@ sb20in80and160lr5ghpo=0x0
 sb20in80and160hr5ghpo=0x0
 
 ## 2G TX power compensation
-powoffs2gtna0=-2,1,2,2,1,0,-1,-1,0,0,-2,0,0,0
-powoffs2gtna1=0,0,1,1,0,0,-1,-1,-1,-1,0,0,1,0
+powoffs2gtna0=-2,1,2,2,1,0,-1,-1,0,0,-10,0,0,0
+powoffs2gtna1=0,0,1,1,0,0,-1,-1,-1,-1,-8,0,1,0
 cck_onecore_tx=0
 
 epsdelta2g0=0
 epsdelta2g1=0
 papdwar=4
+
+ofdmfiltbesel_2g=0x9
+ofdmfiltbe_2g=6
 
 # TX Power Backoff / 2G(17dBm) / 5G(11dBm)
 dynamicsarctrl_2g=0xC4C4
