@@ -17,6 +17,9 @@
 
 DEVICE_PATH := device/lge/h830
 
+# path to the block device for system-as-root
+TARGET_SYSTEM_PARTITION := /dev/sda16
+
 # inherit from common g5
 -include device/lge/g5-common/BoardConfigCommon.mk
 
