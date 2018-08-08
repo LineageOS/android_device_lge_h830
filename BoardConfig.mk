@@ -21,6 +21,7 @@ DEVICE_PATH := device/lge/h830
 -include device/lge/g5-common/BoardConfigCommon.mk
 
 TARGET_OTA_ASSERT_DEVICE := g5,h1,h830
+TARGET_SYSTEM_PARTITION := /dev/sda16
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_h830_defconfig
