@@ -26,4 +26,4 @@ TARGET_OTA_ASSERT_DEVICE := g5,h1,h830
 TARGET_KERNEL_CONFIG := lineageos_h830_defconfig
 
 # inherit from the proprietary version
--include vendor/lge/h830/BoardConfigVendor.mk
+include vendor/lge/h830/BoardConfigVendor.mk
