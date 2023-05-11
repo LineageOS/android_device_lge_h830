@@ -1,5 +1,5 @@
 ### All blobs from this list, unless pinned and noted as otherwise,
-##  are from from h1_tmo_us-user 8.0.0 OPR1.170623.032 182251913485f release-keys
+###  are from from h1_tmo_us-user 8.0.0 OPR1.170623.032 182251913485f release-keys
 
 # Bluetooth
 vendor/firmware/BCM4358A3_001.004.015.0095.0165_LGE_LG_Alice_KR_72_ORC.hcd:vendor/firmware/BCM43xx.hcd
