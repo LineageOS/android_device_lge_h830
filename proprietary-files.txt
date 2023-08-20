@@ -1,5 +1,8 @@
 ### All blobs from this list, unless pinned and noted as otherwise,
 ###  are from from h1_tmo_us-user 8.0.0 OPR1.170623.032 182251913485f release-keys
+	
+# Bluetooth
+vendor/firmware/BCM4358A3_001.004.015.0095.0168_KR_ORC.HCD:vendor/firmware/BCM43xx.hcd
 
 # Graphics - Firmware
 vendor/firmware/a530_gpmu.fw2
