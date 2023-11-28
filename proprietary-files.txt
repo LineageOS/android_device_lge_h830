@@ -1,5 +1,5 @@
-### All blobs from this list, unless pinned and noted as otherwise,
-###  are from from h1_tmo_us-user 8.0.0 OPR1.170623.032 182251913485f release-keys
+## All blobs from this list, unless pinned and noted as otherwise,
+## are from from h1_tmo_us-user 8.0.0 OPR1.170623.032 182251913485f release-keys
 
 # Bluetooth - from elsa_kt_kr-user 9 PKQ1.190522.001 20192161159c5 release-keys
 vendor/firmware/BCM4358A3_001.004.015.0095.0168_KR_ORC.HCD:vendor/firmware/BCM43xx.hcd||f08ab1623250abbe73cbf4514e6d3cab40a4d022
