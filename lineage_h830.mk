@@ -32,9 +32,7 @@ PRODUCT_MODEL := LG-H830
 PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    TARGET_DEVICE="h1" \
-    PRODUCT_DEVICE="h1" \
-    PRODUCT_NAME="h1_tmo_us" \
-    PRIVATE_BUILD_DESC="h1_tmo_us-user 8.0.0 OPR1.170623.032 182251913485f release-keys"
-
-BUILD_FINGERPRINT := "lge/h1_tmo_us/h1:8.0.0/OPR1.170623.032/182251913485f:user/release-keys"
+    BuildDesc="h1_tmo_us-user 8.0.0 OPR1.170623.032 182251913485f release-keys" \
+    BuildFingerprint="lge/h1_tmo_us/h1:8.0.0/OPR1.170623.032/182251913485f:user/release-keys" \
+    DeviceName="h1_tmo_us" \
+    DeviceProduct="h1"
